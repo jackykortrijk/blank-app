@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈中秋节快乐")
+st.title("🎈Happy Mid-Autumn Day")
 st.write(
-    "嘿嘿嘿！  "
+    "小王中秋节快乐，嘻嘻嘻！  "
 )
